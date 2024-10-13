@@ -7,7 +7,7 @@ toc: false
 readTime: true
 autonumber: false 
 math: true
-tags: ["self-hosting"]
+tags: ["economy", "tech", "business"]
 showTags: false
 ---
 Here is my prediction: the current tech lay-offs will end Big Tech as we know it.

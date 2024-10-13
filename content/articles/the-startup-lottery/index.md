@@ -7,17 +7,9 @@ toc: false
 readTime: true
 autonumber: false 
 math: true
-tags: ["self-hosting"]
+tags: ["business", "startups"]
 showTags: false
 ---
-export const meta = {
-  author: 'Wille Faler',
-  date: '2022-12-20',
-  title: 'The startup lottery',
-  description:
-    'Startup success is a lot like a lottery, but where certain factors can tilt the odds in your favour. Calling it a lottery may be unpopular, but even Venture Capitalists admit it to an extent.',
-}
-
 
 Startup success is a lot like a lottery, but where certain factors can tilt the odds in your favour. This may be inflammatory to say, but even Venture Capitalists and Angel Investors tacitly admit this, with oft stated stats.
 

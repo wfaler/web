@@ -7,7 +7,7 @@ toc: false
 readTime: true
 autonumber: false 
 math: true
-tags: ["self-hosting"]
+tags: ["business", "software", "business"]
 showTags: false
 ---
 
